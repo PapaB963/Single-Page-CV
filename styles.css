@@ -1,0 +1,13 @@
+body {
+    background-color:darkslategrey;
+}
+
+p.no-space {
+    margin: 0;
+    padding: 0;
+}
+
+h3.no-space {
+    margin: 0;
+    padding: 0;
+}
